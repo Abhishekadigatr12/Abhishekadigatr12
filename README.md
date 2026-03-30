@@ -1,49 +1,46 @@
-## Hi there 👋
-
-<!--
-**Abhishekadigatr12/Abhishekadigatr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">💻 Computer Science Student | Aspiring Developer</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | AI & Backend Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science Student
-- 🌱 Currently learning Data Structures & Development
-- ⚡ Interested in Web Development & AI/ML
-- 🎯 Goal: Crack top tech placements
+## 👨‍💻 About Me
+- 🎓 2nd year Computer Science Student at SJCE, Mysuru.  
+- 🤖 Interested and Working on AI, Backend Development, Full stack, Open Source Contributions, Cyber Security.  
+- 🚀 Building real-world projects  
+- 📚 Learning DSA, Web Development, AI/ML.  
 
 ---
 
-## 🛠️ Skills
-- 💻 C Programming
-- 🌐 HTML, CSS (Learning)
-- ⚙️ Data Structures (Learning)
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🤖 AI / ML
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
 ## 📂 Projects
-- 🔹 Queue Implementation in C  
+- 🔹 DevConnect (A collaborative Platform)
 - 🔹 NeuroCircuit (Web Project)
+- 🔹 ChatApp
 
 ---
-
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Abhishekadigatr12&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishekadigatr12&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (add later)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)
