@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">💻 Computer Science Student | Aspiring Developer</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 🌱 Currently learning Data Structures & Development
+- ⚡ Interested in Web Development & AI/ML
+- 🎯 Goal: Crack top tech placements
+
+---
+
+## 🛠️ Skills
+- 💻 C Programming
+- 🌐 HTML, CSS (Learning)
+- ⚙️ Data Structures (Learning)
+
+---
+
+## 📂 Projects
+- 🔹 Queue Implementation in C  
+- 🔹 NeuroCircuit (Web Project)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Abhishekadigatr12&show_icons=true)
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: (add later)
