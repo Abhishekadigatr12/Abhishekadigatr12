@@ -10,7 +10,7 @@
 - 📚 Learning DSA, Web Development, AI/ML
 - 🚀 Currently exploring secure web architectures
 - 🧠 Skilled in Discrete Mathematics & Probability for algorithms and AI agents
-- 🛠️ Currently Working on Open Source Contributions, Bug bounties, Ai/ML for real world problems
+- 🛠️ Currently Working on Open Source Contributions, AI/ML for real world problems
 - ⚡ Versatile Coder and learning new technologies, frameworks, and security practices
 - 🎯 Aspiring Software Engineer focused on building scalable and impactful solutions
   
