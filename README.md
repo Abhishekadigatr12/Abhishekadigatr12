@@ -22,6 +22,7 @@
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -45,6 +46,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KaliLinux-Hacking-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/DockerCompose-MultiContainer-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
