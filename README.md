@@ -70,6 +70,8 @@
 - 🔹 DevConnect (A collaborative Platform)
 - 🔹 NeuroCircuit (Web Project)
 - 🔹 ChatApp
+- 🔹 PlanPlus
+- 🔹 Cloud RL Cost Optimizer
 
 ---
 ## 📊 GitHub Stats
