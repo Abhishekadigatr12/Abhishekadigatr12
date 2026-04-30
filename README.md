@@ -72,6 +72,7 @@
 - 🔹 ChatApp
 - 🔹 PlanPlus
 - 🔹 Cloud RL Cost Optimizer
+- 🔹 Shadow Engine
 
 ---
 ## 📊 GitHub Stats
