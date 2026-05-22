@@ -69,10 +69,12 @@
 ## 📂 Projects
 - 🔹 DevConnect (A collaborative Platform)
 - 🔹 NeuroCircuit (Web Project)
-- 🔹 ChatApp
+- 🔹 Chatify
 - 🔹 PlanPlus
 - 🔹 Cloud RL Cost Optimizer
 - 🔹 Shadow Engine
+- 🔹 AgriVision
+- 🔹 AniMind
 
 ---
 ## 📊 GitHub Stats
