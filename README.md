@@ -17,6 +17,17 @@
 ---
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rbGpucnI1aGU4ZjVtOG9kN3hoM3MxbGVjaGRmMHR5a2ExNHowMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ygN59Yayt8tpGxFrB9/giphy.gif" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=30&pause=2500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Your+only+limit+is+your+mind.;Difficult+roads+lead+to+beautiful+destinations.;Believe+in+yourself.;Discipline+creates+freedom.;Stay+patient+and+trust+your+journey." />
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishekadigatr12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   
   <img src="https://img.shields.io/github/followers/Abhishekadigatr12?style=for-the-badge&color=blue" />
