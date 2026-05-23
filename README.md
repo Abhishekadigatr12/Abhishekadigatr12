@@ -1,85 +1,196 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | AI/ML, Cyber security & Backend Enthusiast</h3>
+
+<h3 align="center">
+🚀 Aspiring Software Engineer | AI/ML • Cyber Security • Backend Development
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=AI+%26+ML+Enthusiast;Backend+Developer;Cyber+Security+Learner;Open+Source+Contributor;Building+Scalable+Projects;Always+Learning+New+Technologies+🚀" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 2nd year Computer Science Student at SJCE, Mysuru  
-- 🤖 Interested and Working on AI, Backend Development, Full stack, Open Source Contributions, Cyber Security, Mathematical Logic & Problem Solving  
-- 🚀 Building real-world projects  
-- 📚 Learning DSA, Web Development, AI/ML
-- 🚀 Currently exploring secure web architectures
-- 🧠 Skilled in Discrete Mathematics & Probability for algorithms and AI agents
-- 🛠️ Currently Working on Open Source Contributions, AI/ML for real world problems
-- ⚡ Versatile Coder and learning new technologies, frameworks, and security practices
-- 🎯 Aspiring Software Engineer focused on building scalable and impactful solutions
+<p align="center">
+  <img src="https://i.pinimg.com/originals/65/7d/5b/657d5b8f6a3932b4d3e5c4b7a0b6d8a4.gif" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishekadigatr12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   
+  <img src="https://img.shields.io/github/followers/Abhishekadigatr12?style=for-the-badge&color=blue" />
+  
+  <img src="https://img.shields.io/github/stars/Abhishekadigatr12?style=for-the-badge&color=yellow" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🧑‍💻 About Me
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python&logoColor=white)
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
-
-### 💻 Full Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+- 🎓 2nd Year Computer Science Student at **SJCE, Mysuru**
+- 🤖 Passionate about **AI/ML, Backend Development & Cyber Security**
+- 🚀 Building real-world scalable applications
+- 🛠️ Open Source Contributor
+- 📚 Exploring **DSA, AI Agents, System Design & MLOps**
+- 🧠 Interested in **Mathematics, Probability & Intelligent Systems**
+- ⚡ Constantly learning modern technologies and frameworks
+- 🎯 Goal: Build impactful and intelligent software systems
 
 ---
 
-### ⚡ Tools & Platforms
+# 🏆 Open Source & Contributions
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KaliLinux-Hacking-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/DockerCompose-MultiContainer-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge&logo=github" />
+  
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Previously%20Contributed-GitHub%20Projects-success?style=for-the-badge&logo=github" />
+</p>
 
----
+<div align="center">
 
-### 🗄️ Backend & Database
+🌟 Previously contributed to multiple GitHub open-source repositories  
+🚀 Active in collaborative development and community-driven projects  
+🛠️ Interested in AI/ML, Backend Systems, Security & Developer Tools  
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
----
-
-### 🤖 AI / ML
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
+</div>
 
 ---
 
-## 📂 Projects
-- 🔹 DevConnect (A collaborative Platform)
-- 🔹 NeuroCircuit (Web Project)
-- 🔹 Chatify
-- 🔹 PlanPlus
-- 🔹 Cloud RL Cost Optimizer
-- 🔹 Shadow Engine
-- 🔹 AgriVision
-- 🔹 AniMind
+# ⚙️ Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
+</p>
 
 ---
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishekadigatr12&show_icons=true&theme=tokyonight)
+
+## 🌐 Full Stack Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,nextjs" />
+</p>
+
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-adiga-t-r-636876322/)
+## ⚡ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,vercel,linux" />
+</p>
+
+---
+
+# 🤖 AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Generative%20AI-ff6f00?style=for-the-badge&logo=openai&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/AI%20Agents-00c853?style=for-the-badge" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekadigatr12&repo=AniMind&theme=tokyonight" /></a>
+</p>
+
+| 🚀 Project | 📌 Description |
+|---|---|
+| 🔹 DevConnect | Collaborative Developer Platform |
+| 🔹 NeuroCircuit | AI-Powered Web Project |
+| 🔹 Chatify | Real-time Chat Application |
+| 🔹 PlanPlus | Productivity & Planning App |
+| 🔹 Cloud RL Cost Optimizer | Reinforcement Learning Cloud Optimizer |
+| 🔹 Shadow Engine | Security & Automation Project |
+| 🔹 AgriVision | AI for Agriculture |
+| 🔹 AniMind | AI-based Interactive System |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishekadigatr12&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekadigatr12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekadigatr12&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+| Learning Path | Status |
+|---|---|
+| Advanced DSA | 🟩 |
+| Deep Learning | 🟨 |
+| System Design | 🟨 |
+| Generative AI | 🟩 |
+| AI Agents | 🟩 |
+| MLOps | 🟨 |
+| Cyber Security | 🟩 |
+| Distributed Systems | 🟨 |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abhishek-adiga-t-r-636876322/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" width="55" />
+</a>
+
+<a href="https://github.com/Abhishekadigatr12" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="55" width="55" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+✨ <b>Code • Learn • Build • Contribute • Repeat</b> ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
