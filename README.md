@@ -14,8 +14,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rbGpucnI1aGU4ZjVtOG9kN3hoM3MxbGVjaGRmMHR5a2ExNHowMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KWcGnX2iz0G1fMMHrO/giphy.gif" width="60%" />
 </p>
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rbGpucnI1aGU4ZjVtOG9kN3hoM3MxbGVjaGRmMHR5a2ExNHowMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ygN59Yayt8tpGxFrB9/giphy.gif" width="100%" />
 </p>
