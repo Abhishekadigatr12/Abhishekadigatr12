@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | AI/ML • Cyber Security • Backend Development
+🚀 Aspiring Software Engineer | AI/ML • Cyber Security • Backend Developer • App Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=AI+%26+ML+Enthusiast;Backend+Developer;Cyber+Security+Learner;Open+Source+Contributor;Building+Scalable+Projects;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=AI+%26+ML+Enthusiast;Backend+Developer;Cyber+Security+Learner;Open+Source+Contributor;Building+Scalable+Projects;Always+Learning+New+Technologies+🚀;Free+Lancer" />
 </p>
 
 ---
@@ -128,6 +128,7 @@
 | 🔹 Shadow Engine | Security & Automation Project |
 | 🔹 AgriVision | AI for Agriculture |
 | 🔹 AniMind | AI-based Interactive System |
+| 🔹 Jarvis | Personal AI Assistant |
 
 ---
 
