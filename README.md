@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | AI/ML • Cyber Security • Backend Developer • App Developer
+🚀 Aspiring Software Engineer | AI/ML • Cyber Security • Backend Developer • App Developer • Free Lancer 
 </h3>
 
 <p align="center">
