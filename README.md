@@ -129,6 +129,7 @@
 | 🔹 AgriVision | AI for Agriculture |
 | 🔹 AniMind | AI-based Interactive System |
 | 🔹 Jarvis | Personal AI Assistant |
+| 🔹 SynapseArc | An AI-powered Predictive Cascade Failure Detection and Autonomous Self-Healing Infrastructure Platform |
 
 ---
 
